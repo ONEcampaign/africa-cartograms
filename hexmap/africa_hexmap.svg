@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 250 300"
+   id="africa-hexmap"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     id="hex-layer"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="ESH"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,78.136071,53.29513)">
+      <title
+         id="title-ESH">
+        Western Sahara
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="MAR"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353026,45.086966)">
+      <title
+         id="title-MAR">
+        Morocco
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="DZA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,53.29513)">
+      <title
+         id="title-DZA">
+        Algeria
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="MLI"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353026,61.503293)">
+      <title
+         id="title-MLI">
+        Mali
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="MRT"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,63.919117,61.503294)">
+      <title
+         id="title-MRT">
+        Mauritania
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="SEN"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,49.702162,69.711457)">
+      <title
+         id="title-SEN">
+        Senegal
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="GMB"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,63.919117,77.91962)">
+      <title
+         id="title-GMB">
+        Gambia
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="GIN"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,78.136072,86.127783)">
+      <title
+         id="title-GIN">
+        Guinea
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="GNB"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,78.136071,69.711456)">
+      <title
+         id="title-GNB">
+        Guinea-Bissau
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="BFA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353026,77.919619)">
+      <title
+         id="title-BFA">
+        Burkina-Faso
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="NER"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,86.127781)">
+      <title
+         id="title-NER">
+        Niger
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="TUN"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,69.711456)">
+      <title
+         id="title-TUN">
+        Tunisia
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="EGY"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,135.00389,69.711456)">
+      <title
+         id="title-EGY">
+        Egypt
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="ERI"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,149.22084,94.335946)">
+      <title
+         id="title-ERI">
+        Eritrea
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="DJI"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,163.4378,102.5441)">
+      <title
+         id="title-DJI">
+        Djibouti
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="SOM"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,163.4378,118.96043)">
+      <title
+         id="title-SOM">
+        Somalia
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="ZAF"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,201.04207)">
+      <title
+         id="title-ZAF">
+        South Africa
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="SWZ"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78693,192.83391)">
+      <title
+         id="title-SWZ">
+        eSwatini
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="LSO"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,184.62575)">
+      <title
+         id="title-LSO">
+        Lesotho
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="ZWE"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,168.20942)">
+      <title
+         id="title-ZWE">
+        Zimbabwe
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="ZMB"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,151.79309)">
+      <title
+         id="title-ZMB">
+        Zambia
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="GAB"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,135.37676)">
+      <title
+         id="title-GAB">
+        Gabon
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="COG"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78694,127.1686)">
+      <title
+         id="title-COG">
+        Congo
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="TGO"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148199,0,0,0.30148208,106.56998,102.54411)">
+      <title
+         id="title-TGO">
+        Togo
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="BEN"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78694,110.75227)">
+      <title
+         id="title-BEN">
+        Benin
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="SLE"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,49.702162,86.127783)">
+      <title
+         id="title-SLE">
+        Sierra Leone
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="LBR"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,63.919117,94.335946)">
+      <title
+         id="title-LBR">
+        Liberia
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="CIV"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,-0.30148208,78.136072,129.78331)">
+      <title
+         id="title-CIV">
+        Côte d'Ivoire
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="GHA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353026,94.335945)">
+      <title
+         id="title-GHA">
+        Ghana
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="NGA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353026,110.75228)">
+      <title
+         id="title-NGA">
+        Nigeria
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="LBY"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78694,61.503293)">
+      <title
+         id="title-LBY">
+        Libya
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="SDN"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,135.00389,86.127783)">
+      <title
+         id="title-SDN">
+        Sudan
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="TCD"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78693,77.919618)">
+      <title
+         id="title-TCD">
+        Chad
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="SSD"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,135.00389,102.54411)">
+      <title
+         id="title-SSD">
+        South Sudan
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="ETH"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,149.22085,110.75227)">
+      <title
+         id="title-ETH">
+        Ethiopia
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="KEN"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,149.22085,127.16859)">
+      <title
+         id="title-KEN">
+        Kenya
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="GNQ"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,106.56998,118.96044)">
+      <title
+         id="title-GNQ">
+        Equatorial Guinea
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="UGA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,135.00389,118.96043)">
+      <title
+         id="title-UGA">
+        Uganda
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="CAF"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78693,94.335944)">
+      <title
+         id="title-CAF">
+        Central African Republic
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="RWA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,135.00389,135.37676)">
+      <title
+         id="title-RWA">
+        Rwanda
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="COD"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78693,143.58492)">
+      <title
+         id="title-COD">
+        Dem. Rep. Congo
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="BDI"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,135.00389,151.79309)">
+      <title
+         id="title-BDI">
+        Burundi
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="MWI"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78693,160.00125)">
+      <title
+         id="title-MWI">
+        Malawi
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="TZA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,135.00389,168.20941)">
+      <title
+         id="title-TZA">
+        Tanzania
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="MOZ"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,120.78693,176.41758)">
+      <title
+         id="title-MOZ">
+        Mozambique
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="CPV"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,25.674373,77.720202)">
+      <title
+         id="title-CPV">
+        Cabo Verde
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="STP"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,69.946591,124.00012)">
+      <title
+         id="title-STP">
+        São Tomé and Príncipe
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="CMR"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353025,127.1686)">
+      <title
+         id="title-CMR">
+        Cameroon
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="AGO"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353025,143.58493)">
+      <title
+         id="title-AGO">
+        Angola
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="NAM"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353025,160.00126)">
+      <title
+         id="title-NAM">
+        Namibia
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="BWA"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,92.353025,176.41758)">
+      <title
+         id="title-BWA">
+        Botswana
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="COM"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,161.44233,158.93423)">
+      <title
+         id="title-COM">
+        Comoros
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="SYC"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,178.29434,149.56111)">
+      <title
+         id="title-SYC">
+        Seychelles
+      </title>
+    </path>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1"
+       id="MDG"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,161.44233,178.38444)">
+      <title
+         id="title-MDG">
+        Madagascar
+      </title>
+    </path>
+    <path
+       style="display:inline;opacity:0.86;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none;stroke-opacity:1"
+       id="MUS"
+       d="m 87.709158,45.175499 -15.718961,27.226039 -31.437921,0 -15.718961,-27.226039 15.718961,-27.226039 31.437921,0 z"
+       transform="matrix(0.30148208,0,0,0.30148208,178.29434,168.6125)">
+      <title
+         id="title1">
+        Madagascar
+      </title>
+    </path>
+  </g>
+</svg>
