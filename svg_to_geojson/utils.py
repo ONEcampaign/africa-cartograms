@@ -1,3 +1,14 @@
+"""
+This module contains functions to parse an svg and convert it to geojson.
+
+The function that orchestrates this process is `parse_svg_to_geojson()`, which takes a single argument, namely the
+path to the svg file to be converted.
+
+To visually check that the conversion was successful, use the `plot_geojson()` method.
+
+Refer to the README for an example of how to do the conversion.
+"""
+
 from lxml import etree
 from svg.path import parse_path, Move, Line
 from typing import Optional, NamedTuple
@@ -254,15 +265,3 @@ def plot_geojson(
     ax.axis("off")
     plt.tight_layout()
     plt.show()
-
-
-# Example usage
-if __name__ == "__main__":
-    input_file = "./hexmap/africa_hexmap.svg"
-    output_file = "./hexmap/africa_hexmap.geojson"
-
-    fc = parse_svg_to_geojson(input_file)
-    with open(output_file, "w") as f:
-        geojson.dump(fc, f, indent=2)
-
-    plot_geojson(output_file)
