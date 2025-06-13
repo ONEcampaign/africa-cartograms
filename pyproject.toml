@@ -10,6 +10,7 @@ matplotlib = "^3.10.3"
 shapely = "^2.1.1"
 svg-path = "^6.3"
 black = "^25.1.0"
+bblocks-places = {git = "https://github.com/ONEcampaign/bblocks-places.git"}
 
 [project.tool]
 package-mode = false
