@@ -17,6 +17,7 @@ import matplotlib.pyplot as plt
 from shapely.geometry import shape
 from matplotlib.patches import Polygon as MplPolygon
 from matplotlib.collections import PatchCollection
+from bblocks import places
 
 SVG_NS = "http://www.w3.org/2000/svg"
 
@@ -182,13 +183,15 @@ def build_feature_from_path(
     if coords_flipped[0] != coords_flipped[-1]:
         coords_flipped.append(coords_flipped[0])
 
-    iso3 = path_el.get("id")
     title = path_el.find("svg:title", namespaces={"svg": SVG_NS})
-    name = title.text.strip() if title is not None else None
+    country = title.text.strip() if title is not None else None
+
+    iso3 = places.resolve(country, to_type="iso3_code")
+    iso2 = places.resolve(country, to_type="iso2_code")
 
     return geojson.Feature(
         geometry=geojson.Polygon([coords_flipped]),
-        properties={"iso3": iso3, "name": name},
+        properties={"country": country, "iso3": iso3, "iso2": iso2},
     )
 
 
@@ -265,3 +268,13 @@ def plot_geojson(
     ax.axis("off")
     plt.tight_layout()
     plt.show()
+
+if __name__ == "__main__":
+    input_file = "./hexmap/africa_hexmap.svg"
+    output_file = "./hexmap/africa_hexmap.geojson"
+
+    fc = parse_svg_to_geojson(input_file)
+    with open(output_file, "w") as f:
+        geojson.dump(fc, f, indent=2)
+
+    plot_geojson(output_file)
